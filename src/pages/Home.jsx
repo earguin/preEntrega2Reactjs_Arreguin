@@ -2,7 +2,7 @@ import ItemListContainer from "../components/ItemListContainer/ItemListContainer
 const Home = () => {
     return (
         <div>
-            <h1>Home</h1>
+            <h1>Inicio</h1>
             <ItemListContainer/>
         </div>
     );

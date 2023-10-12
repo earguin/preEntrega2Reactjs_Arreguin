@@ -11,10 +11,10 @@ const Navbar =  () => {
                 Xilitla <span>Store</span></Link>
             </div>
             <ul className="nav-ul">
-                <Link className="li" to="/">Home</Link>
-                <Link className="li" to="abaut">Abaut</Link>
-                <Link className="li" to="contact">Contact</Link>
-                <Link className="li" to="/category/home-decoration">Decoracion</Link>
+                <Link className="li" to="/">Inicio</Link>
+                <Link className="li" to="about">Acerca de</Link>
+                <Link className="li" to="contact">Contacto</Link>
+                <Link className="li" to="/category/home-decoration">Decoración</Link>
                 <Link className="li" to="/category/groceries">Alimentos</Link>
             </ul>
             <CartWidget />

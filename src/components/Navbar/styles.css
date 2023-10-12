@@ -14,6 +14,7 @@ nav{
     float: left;
     font-weight: bold;
     text-shadow: 0 0 5px #333;
+    padding: 10px;
 }
 
 .logo span {
@@ -28,7 +29,7 @@ nav ul {
 nav ul .li {
     display: inline-block;
     font-size: 18px;
-    padding: 15px;
+    padding: 22px;
 }
 
 nav a {
